@@ -4,9 +4,9 @@
   services.xserver.synaptics =
   {
     enable = true;
-    accelFactor = "0.5";
-    minSpeed = "0.2";
-    maxSpeed = "0.6";
+    accelFactor = "0.05";
+    #minSpeed = "0.2";
+    #maxSpeed = "0.6";
     twoFingerScroll = true;
   };
 

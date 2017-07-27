@@ -44,6 +44,7 @@
     xfce.xfce4volumed
     xfce.xfce4notifyd
     xfce.xfce4icontheme
+    nitrogen
 
     #xfce plugins
     xfce.xfce4_battery_plugin
